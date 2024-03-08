@@ -1,0 +1,10 @@
+body{
+
+    width: 100%;
+}
+
+.imagen {
+
+    width: 25%;
+    border-radius: 15px;
+}
